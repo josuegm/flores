@@ -1,5 +1,5 @@
 import React from 'react';
-import FloresAmarillas from './FloresAmarillas'; // Asegúrate de que la ruta del archivo sea correcta
+import FloresAmarillas from './flores'; // Asegúrate de que la ruta del archivo sea correcta
 
 const App = () => {
   return (
